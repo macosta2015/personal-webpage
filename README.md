@@ -11,3 +11,4 @@ Adding another line to PUSH.
     git add .
     git commit 
 3. Click on several icons 
+4. You need to type "commit to main"
