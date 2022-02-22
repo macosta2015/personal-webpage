@@ -20,4 +20,12 @@ TEST
 
 ## So we first add the photo in the fiels
 !["ADDING ANOTHER PHOTO"](LFG.jpg)
+## We then do "git status"
+## We then do "git push"
+## We then do "git commit -m "Type whatever you want" 
+
+
+
+## Testing with Tom Brady
+!["ADDING ANOTHER PHOTO"](TOMBRADY.jpg)
 
