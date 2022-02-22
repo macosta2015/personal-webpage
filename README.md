@@ -13,5 +13,5 @@ Adding another line to PUSH.
 3. Click on several icons 
 4. You need to type "commit to main"
 
-# You are able to commit by clicking on the icons. 
+## You are able to commit by clicking on the icons. 
 TEST
