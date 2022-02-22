@@ -16,3 +16,8 @@ Adding another line to PUSH.
 ## You are able to commit by clicking on the icons. 
 TEST
 !["Soy Mario"](PXL_20210122_214818069.MP.jpg)
+
+
+## So we first add the photo in the fiels
+!["ADDING ANOTHER PHOTO"](LFG.jpg)
+
